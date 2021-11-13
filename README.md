@@ -1,2 +1,2 @@
 # projetos-javascript-iniciante
- Pequenos projetos em JavaScript para fixar aprendizado.
+ Pequenos projetos em JavaScript para fixar o aprendizado.
